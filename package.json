@@ -1,0 +1,25 @@
+{
+  "name": "type-of-datatype",
+  "version": "1.0.0",
+  "description": "Returns the type of datatype",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rakesh-P-Rao/type-of-datatype.git"
+  },
+  "keywords": [
+    "typeof",
+    "type",
+    "of",
+    "datatype"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rakesh-P-Rao/type-of-datatype/issues"
+  },
+  "homepage": "https://github.com/Rakesh-P-Rao/type-of-datatype#readme"
+}
